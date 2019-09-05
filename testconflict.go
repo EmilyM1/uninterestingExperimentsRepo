@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-fmt.Println("will conflict maybe")
+fmt.Println("will conflicT maybe")
 }
